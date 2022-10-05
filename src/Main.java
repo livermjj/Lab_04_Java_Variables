@@ -15,6 +15,14 @@ public class Main {
         double doubleDifference = 10.8;
         double doubleQuotient = 25.3;
 
+        int numOfKids = 2;
+        boolean isItRaining = false;
+        double gasPrice = 3.75;
+        int favNumber = 10;
+        double shoeSize = 8.5;
+        String birthMonth = "November";
+        String fullName = "Justin Livermore";
+
         intSum = intOperandA + intOperandB;
         intDifference = intOperandA - intOperandB;
         intProduct = intOperandA * intOperandB;
